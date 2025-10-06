@@ -36,7 +36,7 @@ The keyboard can operate in either USB or Bluetooth mode:
 
 ### OLED Display
 The OLED display shows:
-1. "KMK Keyboard" (title)
+1. "AnsonKeyboard"
 2. Connection mode (USB or Bluetooth)
 3. Current WPM (words per minute) typing speed
 4. Current LED mode
@@ -215,6 +215,7 @@ Not even an hour after posting about my rerouting, someone from Slack recommmend
 ## **Grand Total: $158.79**
 
 **Note:** The price should not exceed the grand total unless there is a specific exception. Promo codes will be applied to reduce the total cost.
+
 
 
 
