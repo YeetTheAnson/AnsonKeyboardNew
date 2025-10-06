@@ -1,5 +1,5 @@
 # Anson's Keyboard
-This is a generic looking 80% TKL keyboard I made over the span of a month. In total, I've spent about 25-30 hours in total for PCB redesigns, writing the keyboard firmware and case redesigns.
+This is a generic looking 80% TKL keyboard I made over the span of a month. In total, I've spent about 20-25 hours in total for PCB redesigns, writing the keyboard firmware and case redesigns.
 
 
 ## Features
@@ -215,6 +215,7 @@ Not even an hour after posting about my rerouting, someone from Slack recommmend
 ## **Grand Total: $158.79**
 
 **Note:** The price should not exceed the grand total unless there is a specific exception. Promo codes will be applied to reduce the total cost.
+
 
 
 
