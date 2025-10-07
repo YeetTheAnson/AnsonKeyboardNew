@@ -89,12 +89,12 @@ Not even an hour after posting about my rerouting, someone from Slack recommmend
 <img src=assets/pcb3dbottom.png alt="pcb3dbottom" width="900"/>
 
 
-## Assembled Keyboard
-<img src=assets/assembled1.png alt="assembled1" width="900"/>
-<img src=assets/assembled2.png alt="assembled2" width="900"/>
-<img src=assets/assembled3.png alt="assembled3" width="900"/>
-<img src=assets/assembled4.png alt="assembled4" width="900"/>
-<img src=assets/assembled5.png alt="assembled5" width="900"/>
+## Renders
+<img src=assets/render1.png alt="render1" width="900"/>
+<img src=assets/render2.png alt="render2" width="900"/>
+<img src=assets/render3.png alt="render3" width="900"/>
+<img src=assets/render4.png alt="render4" width="900"/>
+<img src=assets/render5.png alt="render5" width="900"/>
 
 
 ## Case Stand (CaseStand.step)
@@ -127,22 +127,22 @@ Not even an hour after posting about my rerouting, someone from Slack recommmend
 | QTY  | Name          | Part Number         | LCSC Part Number | Price |
 |------|--------------|---------------------|------------------|-------|
 | 100x | 4.7kΩ Resistor | 1206W4F4701T5E     | [C17936](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.html) | $0.32 |
-| 100x | 5.1kΩ Resistor | 1206W4F5101T5E     | [C26033](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-1206W4F5101T5E_C26033.html) | $0.30 |
-| 20x  | Tact Switch   | TS-1187A-B-A-B      | [C318884](https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connection-TS-1187A-B-A-B_C318884.html) | $0.39 |
-| 5x   | 3.3v Regulator | AMS1117-3.3        | [C6186](https://www.lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html) | $0.80 |
-| 150x | 100nF Capacitor | CC1206KRX7R9BB104  | [C82601](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC1206KRX7R9BB104_C82601.html) | $1.76 |
-| 20x  | 10uF Capacitor | CL31B106KAHNNNE    | [C14860](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31B106KAHNNNE_C14860.html) | $0.44 |
-| 200x | Diode         | 1N4148WL            | [C33962554](https://www.lcsc.com/product-detail/Diodes-General-Purpose_Slkor-SLKORMICRO-Elec-1N4148WL_C33962554.html) | $1.02 |
+| 100x | 5.1kΩ Resistor | 1206W4F5101T5E     | [C26033](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-1206W4F5101T5E_C26033.html) | $0.32 |
+| 20x  | Tact Switch   | TS-1187A-B-A-B      | [C318884](https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connection-TS-1187A-B-A-B_C318884.html) | $0.38 |
+| 5x   | 3.3v Regulator | AMS1117-3.3        | [C6186](https://www.lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html) | $0.84 |
+| 150x | 100nF Capacitor | CC1206KRX7R9BB104  | [C82601](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC1206KRX7R9BB104_C82601.html) | $1.61 |
+| 20x  | 10uF Capacitor | CL31B106KAHNNNE    | [C14860](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31B106KAHNNNE_C14860.html) | $0.54 |
+| 200x | Diode         | 1N4148WL            | [C33962554](https://www.lcsc.com/product-detail/Diodes-General-Purpose_Slkor-SLKORMICRO-Elec-1N4148WL_C33962554.html) | $1.00 |
 
 ### Active Components
 
 | QTY  | Name         | Part Number          | LCSC Part Number | Price |
 |------|-------------|----------------------|------------------|-------|
-| 150x | RGB LED     | SK6812MINI-E         | [C5149201](https://www.lcsc.com/product-detail/RGB-LEDs-Built-in-IC_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html) | $8.97 |
-| 1x   | ESP-32-S3   | ESP32-S3-WROOM-1-N16R2 | [C2913205](https://www.lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-S3-WROOM-1-N16R2_C2913205.html) | $4.64 |
-| 5x   | Level Shifter | SN74LV1T34DBVR      | [C100024](https://www.lcsc.com/product-detail/Buffers-Drivers-Receivers-Transceivers_Texas-Instruments-SN74LV1T34DBVR_C100024.html) | $0.83 |
+| 150x | RGB LED     | SK6812MINI-E         | [C5149201](https://www.lcsc.com/product-detail/RGB-LEDs-Built-in-IC_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html) | $8.70 |
+| 1x   | ESP-32-S3   | ESP32-S3-WROOM-1-N16R2 | [C2913205](https://www.lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-S3-WROOM-1-N16R2_C2913205.html) | $5.04 |
+| 10x  | Level Shifter | SN74LV1T34DBVR      | [C100024](https://www.lcsc.com/product-detail/Buffers-Drivers-Receivers-Transceivers_Texas-Instruments-SN74LV1T34DBVR_C100024.html) | $0.59 |
 
-**LCSC Shipping**: Singapore Post – $5.66  
+**LCSC Shipping**: Singapore Post – $5.72  
 
 ## Electronics (Local Vendor)
 
@@ -163,18 +163,7 @@ Not even an hour after posting about my rerouting, someone from Slack recommmend
 | 1x   | Lower Case | LowerCase.step | FDM 3D Print    | -      |
 | 1x   | Case Stand | CaseStand.step | FDM 3D Print    | -      |
 | 5x   | PCB       | gerbers.zip   | JLCPCB          | $22.20 |
-| 1x   | PCB Shipping | -          | E-Post         | $13.94 |
-
-
-**Special Printing Request:**
-- The Top Case (TopCase.step) should be with the flat side facing down
-<img src="assets/printrequest1.png" alt="printrequest1" width="900"/>
-
-- The Lower Case (LowerCase.step) should be printed **with** supports due to steep overhangs
-<img src="assets/printrequest2.png" alt="printrequest2" width="900"/>
-
-- The Case Stand (CaseStand.step) should be printed **with** supports due to steep overhangs
-<img src="assets/printrequest3.png" alt="printrequest3" width="900"/>
+| 1x   | PCB Shipping | -          | E-Post         | $9.76 |
 
 ---
 
@@ -195,33 +184,21 @@ Not even an hour after posting about my rerouting, someone from Slack recommmend
 
 | QTY  | Name | Local Price | Conversion Upcharge | Price |
 |------|------|------------|---------------------|-------|
-| 1x   | [XDA Keycap Set](https://shopee.com.my/product/72068395/13588811898) | RM85.00 | +$2.50 | $22.07 |
-| 1x   | [TX Almost Perfect Stabilizers](https://shopee.com.my/product/72068395/18489170375) | RM85.00 | +$2.50 | $22.07 |
+| 1x   | [XDA Keycap Set](https://shopee.com.my/MKB-Cinnamoroll-Sanrio-PBT-XDA-Profile-Keycap-Set-for-Mechanical-Keyboard-i.72068395.18262626381?sp_atk=5d020f62-27a6-4ec2-9bfb-f2d231a9ee17&xptdk=5d020f62-27a6-4ec2-9bfb-f2d231a9ee17) | RM91.20 | +$2.50 | $24.14 |
+| 1x   | [TX Almost Perfect Stabilizers](https://shopee.com.my/product/72068395/18489170375) | RM74.80 | +$2.50 | $20.25 |
 | 91x  | [Gateron Smoothie Switches](https://shopee.com.my/product/72068395/14635071158) | RM136.50 | +$4.00 | $35.42 |
 | 1x   | SPX Express Shipping | RM17.00 | +$0.40  | $4.31 |
-
-**Note:** Price for stabilizers should be brought down below $20 after promo codes.
 
 ---
 
 ## Total Costs  
 
-- **LCSC Total**: $25.13  
+- **LCSC Total**: $25.06  
 - **Electronics (Local) Total**: $6.15
-- **JLCPCB Total**: $36.14  
+- **JLCPCB Total**: $31.96  
 - **Fasteners Total**: $7.50  
-- **Mechanical Total**: $83.87  
+- **Mechanical Total**: $84.12  
 
-## **Grand Total: $158.79**
+## **Grand Total: $154.79**
 
-**Note:** The price should not exceed the grand total unless there is a specific exception. Promo codes will be applied to reduce the total cost.
-
-
-
-
-
-
-
-
-
-
+**Note:** Conversion upcharge is just a buffer for conversion rate fluctuations. Any unused funds will be returned.  
