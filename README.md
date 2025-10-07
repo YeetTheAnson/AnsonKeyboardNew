@@ -64,7 +64,7 @@ I started with a simple idea which was a flat minimalistic TKL keyboard (inspire
 modern, and remove unnecessary designs. However, as I thought more about ergonomics, I quickly realized that a completely flat keyboard wouldn't be comfortable at all
 to use during typing.
 
-My initial PCB design had borders that were too thick, which also made the case borders too thick, it was quite bulky and ugly that what I wanted
+My initial PCB design had borders that were too thick, which also made the case borders too thick, it was quite bulky and uglier than what I wanted
 
 I originally planned to use the Orpheus Pico as the microcontroller. However, due to the large footprint (making the case even bulkier) and the lack of wireless connectivity, I scrapped that idea
 and moved on to a new design. At this point, I also decided to make a triangle wedge to set the keyboard at 6 degrees for a better typing experience.
@@ -200,5 +200,6 @@ Not even an hour after posting about my rerouting, someone from Slack recommmend
 - **Mechanical Total**: $84.12  
 
 ## **Grand Total: $154.79**
+
 
 **Note:** Conversion upcharge is just a buffer for conversion rate fluctuations. Any unused funds will be returned.  
