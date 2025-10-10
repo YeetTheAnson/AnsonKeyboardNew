@@ -1,33 +1,33 @@
-Category,Item Name,Identifier (Part #/Link/File),Vendor,Quantity,Total Price (USD)
-"Electronics (LCSC) - Passive","4.7kΩ Resistor","1206W4F4701T5E","LCSC","100x",0.32
-"Electronics (LCSC) - Passive","5.1kΩ Resistor","1206W4F5101T5E","LCSC","100x",0.32
-"Electronics (LCSC) - Passive","Tact Switch","TS-1187A-B-A-B","LCSC","20x",0.38
-"Electronics (LCSC) - Passive","3.3v Regulator","AMS1117-3.3","LCSC","5x",0.84
-"Electronics (LCSC) - Passive","100nF Capacitor","CC1206KRX7R9BB104","LCSC","150x",1.61
-"Electronics (LCSC) - Passive","10uF Capacitor","CL31B106KAHNNNE","LCSC","20x",0.54
-"Electronics (LCSC) - Passive","Diode","1N4148WL","LCSC","200x",1.00
-"Electronics (LCSC) - Active","RGB LED","SK6812MINI-E","LCSC","150x",8.70
-"Electronics (LCSC) - Active","ESP-32-S3","ESP32-S3-WROOM-1-N16R2","LCSC","1x",5.04
-"Electronics (LCSC) - Active","Level Shifter","SN74LV1T34DBVR","LCSC","10x",0.59
-"Electronics (Local)","USB C Breakout Board","https://shopee.com.my/product/145270449/29272008539","Local Vendor (Shopee)","5x",2.10
-"Electronics (Local)","0.91"" OLED","https://shopee.com.my/product/145270449/4639327724","Local Vendor (Shopee)","1x",2.65
-"Production","Top Case","TopCase.step","FDM 3D Print","1x",0.00
-"Production","Plate","Plate.step","FDM 3D Print","1x",0.00
-"Production","Lower Case","LowerCase.step","FDM 3D Print","1x",0.00
-"Production","Case Stand","CaseStand.step","FDM 3D Print","1x",0.00
-"Production","PCB","gerbers.zip","JLCPCB","5x",22.20
-"Fasteners","M3x5x4 Heat Set Insert","https://shopee.com.my/product/327548229/21958741418","Local Vendor (Shopee)","9x",1.05
-"Fasteners","M2x3 Heat Set Insert","https://shopee.com.my/product/327548229/21958741418","Local Vendor (Shopee)","15x",1.70
-"Fasteners","M3x6 Allen Screw","https://shopee.com.my/product/327548229/18214883983","Local Vendor (Shopee)","5x",0.45
-"Fasteners","M3x4 Allen Screw","https://shopee.com.my/product/327548229/18214883983","Local Vendor (Shopee)","4x",0.40
-"Fasteners","M2x12 Allen Screw","https://shopee.com.my/product/327548229/18514346852","Local Vendor (Shopee)","15x",1.35
-"Mechanical","XDA Keycap Set","https://shopee.com.my/MKB-Cinnamoroll-Sanrio-PBT-XDA-Profile-Keycap-Set-for-Mechanical-Keyboard-i.72068395.18262626381","Local Vendor (Shopee)","1x",24.14
-"Mechanical","TX Almost Perfect Stabilizers","https://shopee.com.my/product/72068395/18489170375","Local Vendor (Shopee)","1x",20.25
-"Mechanical","Gateron Smoothie Switches","https://shopee.com.my/product/72068395/14635071158","Local Vendor (Shopee)","91x",35.42
-"Shipping","LCSC Shipping","Singapore Post","LCSC",1,5.72
-"Shipping","Local Electronics Shipping","SPX Express","Local Vendor (Shopee)",1,1.40
-"Shipping","PCB Shipping","E-Post","JLCPCB",1,9.76
-"Shipping","Fasteners Shipping","SPX Express","Local Vendor (Shopee)",1,2.55
-"Shipping","Mechanical Components Shipping","SPX Express","Local Vendor (Shopee)",1,4.31
-,,,,,"",
+Category,Item Name,Part Number / File Name,Link,Vendor,Quantity,Total Price (USD)
+"Electronics (LCSC) - Passive","4.7kΩ Resistor","1206W4F4701T5E","https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.html","LCSC","100x",0.32
+"Electronics (LCSC) - Passive","5.1kΩ Resistor","1206W4F5101T5E","https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-1206W4F5101T5E_C26033.html","LCSC","100x",0.32
+"Electronics (LCSC) - Passive","Tact Switch","TS-1187A-B-A-B","https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connection-TS-1187A-B-A-B_C318884.html","LCSC","20x",0.38
+"Electronics (LCSC) - Passive","3.3v Regulator","AMS1117-3.3","https://www.lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html","LCSC","5x",0.84
+"Electronics (LCSC) - Passive","100nF Capacitor","CC1206KRX7R9BB104","https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC1206KRX7R9BB104_C82601.html","LCSC","150x",1.61
+"Electronics (LCSC) - Passive","10uF Capacitor","CL31B106KAHNNNE","https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31B106KAHNNNE_C14860.html","LCSC","20x",0.54
+"Electronics (LCSC) - Passive","Diode","1N4148WL","https://www.lcsc.com/product-detail/Diodes-General-Purpose_Slkor-SLKORMICRO-Elec-1N4148WL_C33962554.html","LCSC","200x",1.00
+"Electronics (LCSC) - Active","RGB LED","SK6812MINI-E","https://www.lcsc.com/product-detail/RGB-LEDs-Built-in-IC_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html","LCSC","150x",8.70
+"Electronics (LCSC) - Active","ESP-32-S3","ESP32-S3-WROOM-1-N16R2","https://www.lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-S3-WROOM-1-N16R2_C2913205.html","LCSC","1x",5.04
+"Electronics (LCSC) - Active","Level Shifter","SN74LV1T34DBVR","https://www.lcsc.com/product-detail/Buffers-Drivers-Receivers-Transceivers_Texas-Instruments-SN74LV1T34DBVR_C100024.html","LCSC","10x",0.59
+"Electronics (Local)","USB C Breakout Board",,"https://shopee.com.my/product/145270449/29272008539","Local Vendor (Shopee)","5x",2.10
+"Electronics (Local)","0.91"" OLED",,"https://shopee.com.my/product/145270449/4639327724","Local Vendor (Shopee)","1x",2.65
+"Production","Top Case","TopCase.step",,"FDM 3D Print","1x",0.00
+"Production","Plate","Plate.step",,"FDM 3D Print","1x",0.00
+"Production","Lower Case","LowerCase.step",,"FDM 3D Print","1x",0.00
+"Production","Case Stand","CaseStand.step",,"FDM 3D Print","1x",0.00
+"Production","PCB","gerbers.zip",,"JLCPCB","5x",22.20
+"Fasteners","M3x5x4 Heat Set Insert",,"https://shopee.com.my/product/327548229/21958741418","Local Vendor (Shopee)","9x",1.05
+"Fasteners","M2x3 Heat Set Insert",,"https://shopee.com.my/product/327548229/21958741418","Local Vendor (Shopee)","15x",1.70
+"Fasteners","M3x6 Allen Screw",,"https://shopee.com.my/product/327548229/18214883983","Local Vendor (Shopee)","5x",0.45
+"Fasteners","M3x4 Allen Screw",,"https://shopee.com.my/product/327548229/18214883983","Local Vendor (Shopee)","4x",0.40
+"Fasteners","M2x12 Allen Screw",,"https://shopee.com.my/product/327548229/18514346852","Local Vendor (Shopee)","15x",1.35
+"Mechanical","XDA Keycap Set",,"https://shopee.com.my/MKB-Cinnamoroll-Sanrio-PBT-XDA-Profile-Keycap-Set-for-Mechanical-Keyboard-i.72068395.18262626381","Local Vendor (Shopee)","1x",24.14
+"Mechanical","TX Almost Perfect Stabilizers",,"https://shopee.com.my/product/72068395/18489170375","Local Vendor (Shopee)","1x",20.25
+"Mechanical","Gateron Smoothie Switches",,"https://shopee.com.my/product/72068395/14635071158","Local Vendor (Shopee)","91x",35.42
+"Shipping","LCSC Shipping","Singapore Post",,"LCSC",1,5.72
+"Shipping","Local Electronics Shipping","SPX Express",,"Local Vendor (Shopee)",1,1.40
+"Shipping","PCB Shipping","E-Post",,"JLCPCB",1,9.76
+"Shipping","Fasteners Shipping","SPX Express",,"Local Vendor (Shopee)",1,2.55
+"Shipping","Mechanical Components Shipping","SPX Express",,"Local Vendor (Shopee)",1,4.31
+,,,,,,
 ,,,,,"Grand Total:",154.79
