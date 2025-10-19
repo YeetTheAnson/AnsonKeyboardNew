@@ -8426,7 +8426,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 511.81 119.38 0)
 			(effects
 				(font
@@ -9401,7 +9401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 568.96 101.6 0)
 			(effects
 				(font
@@ -10217,7 +10217,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.50u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.50u"
 			(at 568.96 83.82 0)
 			(effects
 				(font
@@ -11564,7 +11564,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_2.75u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_2.75u"
 			(at 546.1 119.38 0)
 			(effects
 				(font
@@ -13742,7 +13742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 523.24 66.04 0)
 			(effects
 				(font
@@ -14298,7 +14298,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 511.81 83.82 0)
 			(effects
 				(font
@@ -15828,7 +15828,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 488.95 66.04 0)
 			(effects
 				(font
@@ -17068,7 +17068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.75u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.75u"
 			(at 420.37 101.6 0)
 			(effects
 				(font
@@ -17271,7 +17271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 420.37 137.16 0)
 			(effects
 				(font
@@ -17414,7 +17414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.50u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.50u"
 			(at 420.37 83.82 0)
 			(effects
 				(font
@@ -17481,7 +17481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 557.53 119.38 0)
 			(effects
 				(font
@@ -17711,7 +17711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 477.52 66.04 0)
 			(effects
 				(font
@@ -17976,7 +17976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 466.09 66.04 0)
 			(effects
 				(font
@@ -18449,7 +18449,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 534.67 48.26 0)
 			(effects
 				(font
@@ -18688,7 +18688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 443.23 83.82 0)
 			(effects
 				(font
@@ -20156,7 +20156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 534.67 119.38 0)
 			(effects
 				(font
@@ -21203,7 +21203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_2.25u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_2.25u"
 			(at 557.53 101.6 0)
 			(effects
 				(font
@@ -21346,7 +21346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 477.52 119.38 0)
 			(effects
 				(font
@@ -21876,7 +21876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 454.66 83.82 0)
 			(effects
 				(font
@@ -22436,7 +22436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 568.96 137.16 0)
 			(effects
 				(font
@@ -22727,7 +22727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 534.67 101.6 0)
 			(effects
 				(font
@@ -23070,7 +23070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 546.1 153.67 0)
 			(effects
 				(font
@@ -23137,7 +23137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 466.09 83.82 0)
 			(effects
 				(font
@@ -23850,7 +23850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 454.66 48.26 0)
 			(effects
 				(font
@@ -24048,7 +24048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 454.66 101.6 0)
 			(effects
 				(font
@@ -25163,7 +25163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 546.1 66.04 0)
 			(effects
 				(font
@@ -25230,7 +25230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 466.09 101.6 0)
 			(effects
 				(font
@@ -25694,7 +25694,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 500.38 83.82 0)
 			(effects
 				(font
@@ -25761,7 +25761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 488.95 137.16 0)
 			(effects
 				(font
@@ -25828,7 +25828,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 431.8 137.16 0)
 			(effects
 				(font
@@ -26027,7 +26027,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 477.52 83.82 0)
 			(effects
 				(font
@@ -26094,7 +26094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 431.8 119.38 0)
 			(effects
 				(font
@@ -26988,7 +26988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 546.1 137.16 0)
 			(effects
 				(font
@@ -27474,7 +27474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 534.67 66.04 0)
 			(effects
 				(font
@@ -29904,7 +29904,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 523.24 137.16 0)
 			(effects
 				(font
@@ -30113,7 +30113,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 568.96 119.38 0)
 			(effects
 				(font
@@ -30862,7 +30862,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 431.8 83.82 0)
 			(effects
 				(font
@@ -31002,7 +31002,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:ESP32-S3-WROOM-1"
+		(property "Footprint" "Library:ESP32-S3-WROOM-1"
 			(at 443.23 226.06 0)
 			(effects
 				(font
@@ -31641,7 +31641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 420.37 48.26 0)
 			(effects
 				(font
@@ -32392,7 +32392,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 511.81 101.6 0)
 			(effects
 				(font
@@ -33303,7 +33303,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 443.23 66.04 0)
 			(effects
 				(font
@@ -33608,7 +33608,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 443.23 137.16 0)
 			(effects
 				(font
@@ -33675,7 +33675,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 557.53 153.67 0)
 			(effects
 				(font
@@ -34081,7 +34081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 511.81 66.04 0)
 			(effects
 				(font
@@ -34345,7 +34345,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 511.81 137.16 0)
 			(effects
 				(font
@@ -34906,7 +34906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 477.52 48.26 0)
 			(effects
 				(font
@@ -34973,7 +34973,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 443.23 101.6 0)
 			(effects
 				(font
@@ -36672,7 +36672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 431.8 101.6 0)
 			(effects
 				(font
@@ -37092,7 +37092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 443.23 119.38 0)
 			(effects
 				(font
@@ -37528,7 +37528,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 477.52 101.6 0)
 			(effects
 				(font
@@ -38465,7 +38465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 557.53 137.16 0)
 			(effects
 				(font
@@ -38599,7 +38599,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 488.95 83.82 0)
 			(effects
 				(font
@@ -40200,7 +40200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 557.53 48.26 0)
 			(effects
 				(font
@@ -41030,7 +41030,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_2.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_2.00u"
 			(at 568.96 66.04 0)
 			(effects
 				(font
@@ -41295,7 +41295,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 500.38 101.6 0)
 			(effects
 				(font
@@ -42420,7 +42420,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_6.25u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_6.25u"
 			(at 477.52 137.16 0)
 			(effects
 				(font
@@ -42791,7 +42791,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 511.81 48.26 0)
 			(effects
 				(font
@@ -42858,7 +42858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 534.67 83.82 0)
 			(effects
 				(font
@@ -43065,7 +43065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 557.53 83.82 0)
 			(effects
 				(font
@@ -44962,7 +44962,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 500.38 119.38 0)
 			(effects
 				(font
@@ -45511,7 +45511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 534.67 137.16 0)
 			(effects
 				(font
@@ -45578,7 +45578,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 431.8 66.04 0)
 			(effects
 				(font
@@ -45851,7 +45851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 523.24 153.67 0)
 			(effects
 				(font
@@ -46394,7 +46394,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 488.95 101.6 0)
 			(effects
 				(font
@@ -46657,7 +46657,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 431.8 48.26 0)
 			(effects
 				(font
@@ -49630,7 +49630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 500.38 66.04 0)
 			(effects
 				(font
@@ -49697,7 +49697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 523.24 48.26 0)
 			(effects
 				(font
@@ -50169,7 +50169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 466.09 119.38 0)
 			(effects
 				(font
@@ -50980,7 +50980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 420.37 66.04 0)
 			(effects
 				(font
@@ -52184,7 +52184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 466.09 48.26 0)
 			(effects
 				(font
@@ -52643,7 +52643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 454.66 66.04 0)
 			(effects
 				(font
@@ -52928,7 +52928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.25u"
 			(at 500.38 137.16 0)
 			(effects
 				(font
@@ -53071,7 +53071,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 546.1 101.6 0)
 			(effects
 				(font
@@ -53627,7 +53627,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_2.25u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_2.25u"
 			(at 420.37 119.38 0)
 			(effects
 				(font
@@ -53694,7 +53694,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 523.24 101.6 0)
 			(effects
 				(font
@@ -54599,7 +54599,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 454.66 119.38 0)
 			(effects
 				(font
@@ -54797,7 +54797,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 523.24 119.38 0)
 			(effects
 				(font
@@ -55006,7 +55006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 568.96 48.26 0)
 			(effects
 				(font
@@ -56655,7 +56655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 546.1 83.82 0)
 			(effects
 				(font
@@ -58019,7 +58019,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 500.38 48.26 0)
 			(effects
 				(font
@@ -58573,7 +58573,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 534.67 153.67 0)
 			(effects
 				(font
@@ -58914,7 +58914,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 488.95 119.38 0)
 			(effects
 				(font
@@ -59133,7 +59133,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 523.24 83.82 0)
 			(effects
 				(font
@@ -59773,7 +59773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 443.23 48.26 0)
 			(effects
 				(font
@@ -59840,7 +59840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 546.1 48.26 0)
 			(effects
 				(font
@@ -60047,7 +60047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 488.95 48.26 0)
 			(effects
 				(font
@@ -60246,7 +60246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 557.53 66.04 0)
 			(effects
 				(font
@@ -60785,7 +60785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hotSwap:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 568.96 153.67 0)
 			(effects
 				(font
