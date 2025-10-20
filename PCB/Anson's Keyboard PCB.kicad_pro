@@ -481,7 +481,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/Anson/Downloads/Final Anson Keyboard/PCB/",
+      "plot": "../production/gerbers/",
       "pos_files": "",
       "specctra_dsn": "../../Anson's Keyboard PCB.dsn",
       "step": "../../Anson's Keyboard PCB.step",

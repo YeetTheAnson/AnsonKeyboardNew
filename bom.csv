@@ -16,18 +16,18 @@ Category,Item Name,Part Number / File Name,Link,Vendor,Quantity,Total Price (USD
 "Production","Lower Case","LowerCase.step",,"FDM 3D Print","1x",0.00
 "Production","Case Stand","CaseStand.step",,"FDM 3D Print","1x",0.00
 "Production","PCB","gerbers.zip",,"JLCPCB","5x",22.20
-"Fasteners","M3x5x4 Heat Set Insert",,"https://shopee.com.my/product/327548229/21958741418","Local Vendor (Shopee)","9x",1.05
-"Fasteners","M2x3 Heat Set Insert",,"https://shopee.com.my/product/327548229/21958741418","Local Vendor (Shopee)","15x",1.70
-"Fasteners","M3x6 Allen Screw",,"https://shopee.com.my/product/327548229/18214883983","Local Vendor (Shopee)","5x",0.45
-"Fasteners","M3x4 Allen Screw",,"https://shopee.com.my/product/327548229/18214883983","Local Vendor (Shopee)","4x",0.40
-"Fasteners","M2x12 Allen Screw",,"https://shopee.com.my/product/327548229/18514346852","Local Vendor (Shopee)","15x",1.35
+"Fasteners","M2 x 3.5 x 4 Heat Set Insert",,"https://shopee.com.my/-M2-M2.5-M3-Helical-Knurled-Embedded-Nut-Heat-Set-Threaded-Insert-3D-Printing-Injection-Molding-Laptop-Repair-Brass-i.327548229.21958741418","Local Vendor (Shopee)","27x",2.39
+"Fasteners","M2 x 3.5 x 2 Heat Set Insert",,"https://shopee.com.my/-M2-M2.5-M3-Helical-Knurled-Embedded-Nut-Heat-Set-Threaded-Insert-3D-Printing-Injection-Molding-Laptop-Repair-Brass-i.327548229.21958741418","Local Vendor (Shopee)","12x",1.14
+"Fasteners","M2 x 5mm Hex Screw",,"https://shopee.com.my/M2-M2.5-Hex-Socket-Button-Head-Cap-Screw-Allen-Key-Bolt-Skru-Stainless-Steel-304-i.327548229.14990997313","Local Vendor (Shopee)","12x",1.23
+"Fasteners","M2 x 3mm Hex Screw",,"https://shopee.com.my/M2-M2.5-Hex-Socket-Button-Head-Cap-Screw-Allen-Key-Bolt-Skru-Stainless-Steel-304-i.327548229.14990997313","Local Vendor (Shopee)","12x",1.12
+"Fasteners","M2 x 12mm Hex Screw",,"https://shopee.com.my/M2-M2.5-Hex-Socket-Button-Head-Cap-Screw-Allen-Key-Bolt-Skru-Stainless-Steel-304-i.327548229.14990997313","Local Vendor (Shopee)","15x",1.78
 "Mechanical","XDA Keycap Set",,"https://shopee.com.my/MKB-Cinnamoroll-Sanrio-PBT-XDA-Profile-Keycap-Set-for-Mechanical-Keyboard-i.72068395.18262626381","Local Vendor (Shopee)","1x",24.14
 "Mechanical","TX Almost Perfect Stabilizers",,"https://shopee.com.my/product/72068395/18489170375","Local Vendor (Shopee)","1x",20.25
 "Mechanical","Gateron Smoothie Switches",,"https://shopee.com.my/product/72068395/14635071158","Local Vendor (Shopee)","91x",35.42
 "Shipping","LCSC Shipping","Singapore Post",,"LCSC",1,5.72
 "Shipping","Local Electronics Shipping","SPX Express",,"Local Vendor (Shopee)",1,1.40
 "Shipping","PCB Shipping","E-Post",,"JLCPCB",1,9.76
-"Shipping","Fasteners Shipping","SPX Express",,"Local Vendor (Shopee)",1,2.55
+"Shipping","Fasteners Shipping","SPX Express",,"Local Vendor (Shopee)",1,2.66
 "Shipping","Mechanical Components Shipping","SPX Express",,"Local Vendor (Shopee)",1,4.31
 ,,,,,,
-,,,,,"Grand Total:",154.79
+,,,,,"Grand Total:",157.61

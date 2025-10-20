@@ -144,7 +144,7 @@ Not even an hour after posting about my rerouting, someone from Slack recommmend
 
 **LCSC Shipping**: Singapore Post – $5.72  
 
-## Electronics (Local Vendor)
+## Electronics (Local Vendor. I will be paying for these)
 
 | QTY  | Name | Local Price | Conversion Upcharge | Price |
 |------|------|------------|---------------------|-------|
@@ -171,12 +171,13 @@ Not even an hour after posting about my rerouting, someone from Slack recommmend
 
 | QTY  | Name | Local Price | Conversion Upcharge | Price |
 |------|------|------------|---------------------|-------|
-| 9x   | [M3x5x4 Heat Set Insert](https://shopee.com.my/product/327548229/21958741418) | RM3.96 | +$0.15 | $1.05 |
-| 15x  | [M2x3 Heat Set Insert](https://shopee.com.my/product/327548229/21958741418) | RM6.90 | +$0.15 | $1.70 |
-| 5x   | [M3x6 Allen Screw](https://shopee.com.my/product/327548229/18214883983) | RM1.30 | +$0.15 | $0.45 |
-| 4x   | [M3x4 Allen Screw](https://shopee.com.my/product/327548229/18214883983) | RM0.96 | +$0.15 | $0.40 |
-| 15x  | [M2x12 Allen Screw](https://shopee.com.my/product/327548229/18514346852) | RM5.25 | +$0.15 | $1.35 |
-| 1x   | SPX Express Shipping | RM10.60 | +$0.15 | $2.55 |
+| 27x  | [M2 x 3.5 x 4 Heat Set Insert](https://shopee.com.my/-M2-M2.5-M3-Helical-Knurled-Embedded-Nut-Heat-Set-Threaded-Insert-3D-Printing-Injection-Molding-Laptop-Repair-Brass-i.327548229.21958741418) | RM9.45 | +$0.15 | $2.39 |
+| 12x  | [M2 x 3.5 x 2 Heat Set Insert](https://shopee.com.my/-M2-M2.5-M3-Helical-Knurled-Embedded-Nut-Heat-Set-Threaded-Insert-3D-Printing-Injection-Molding-Laptop-Repair-Brass-i.327548229.21958741418) | RM4.20 | +$0.15 | $1.14 |
+| 12x  | [M2 x 5mm Hex Screw](https://shopee.com.my/M2-M2.5-Hex-Socket-Button-Head-Cap-Screw-Allen-Key-Bolt-Skru-Stainless-Steel-304-i.327548229.14990997313) | RM4.56 | +$0.15 | $1.23 |
+| 12x  | [M2 x 3mm Hex Screw](https://shopee.com.my/M2-M2.5-Hex-Socket-Button-Head-Cap-Screw-Allen-Key-Bolt-Skru-Stainless-Steel-304-i.327548229.14990997313) | RM4.08 | +$0.15 | $1.12 |
+| 15x  | [M2 x 12mm Hex Screw](https://shopee.com.my/M2-M2.5-Hex-Socket-Button-Head-Cap-Screw-Allen-Key-Bolt-Skru-Stainless-Steel-304-i.327548229.14990997313) | RM6.90 | +$0.15 | $1.78 |
+| 1x   | SPX Express Shipping | RM10.60 | +$0.15 | $2.66 |
+
 
 ---
 
@@ -196,10 +197,10 @@ Not even an hour after posting about my rerouting, someone from Slack recommmend
 - **LCSC Total**: $25.06  
 - **Electronics (Local) Total**: $6.15
 - **JLCPCB Total**: $31.96  
-- **Fasteners Total**: $7.50  
+- **Fasteners Total**: $10.32  
 - **Mechanical Total**: $84.12  
 
-## **Grand Total: $154.79**
+## **Grand Total: $157.61**
 
 
 **Note:** Conversion upcharge is just a buffer for conversion rate fluctuations. Any unused funds will be returned.  
